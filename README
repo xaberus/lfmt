@@ -1,4 +1,4 @@
-lbmt is a formatter for lua sources
+lfmt is a formatter for lua sources
 
 note: lfmt uses lpeg and needs MAXBACK in lpeg.c to be at least 4000
 
