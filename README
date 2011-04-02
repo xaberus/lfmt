@@ -1,0 +1,6 @@
+lbmt is a formatter for lua sources
+
+note: lfmt uses lpeg and needs MAXBACK in lpeg.c to be at least 4000
+
+lfmt should be able to format itself, e.g.:
+./lfmt.lua lfmt.lua
